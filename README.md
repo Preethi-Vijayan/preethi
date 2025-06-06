@@ -42,4 +42,8 @@ This is my login page using next.js,firebase authentication and zustand
 ## Output:
 Screenshot of the login page displayed at `http://localhost:3000`
 
-       -![Login Page Screenshot](.)
+       -![Login Page Screenshot](./pic/login%20page.PNG)
+
+       -![Authentication Page Screenshot](./pic/Authentication%20page.PNG)
+       
+       -![Dashboard Page Screenshot](./pic/Dashboard.PNG)
