@@ -4,10 +4,10 @@ import { auth } from "../lib/firebase";
 import { onAuthStateChanged } from "firebase/auth";
 
 const useUserStore = create((set) => {
-  let hasInitialized = false; // Listener oru vaati tha start aaganum
+  let hasInitialized = false; 
 
   const initializeAuthListener = () => {
-    if (hasInitialized) return; // already start panniruntha skip
+    if (hasInitialized) return;
     hasInitialized = true;
 
     onAuthStateChanged(auth, (user) => {
