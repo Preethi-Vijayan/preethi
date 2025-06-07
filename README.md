@@ -40,10 +40,10 @@ This is my login page using next.js,firebase authentication and zustand
 - If not logged in, they will automatically be redirected back to the login page
 
 ## Output:
-Screenshot of the login page displayed at `http://localhost:3000`
+Screenshot of the login page displayed at [http://localhost:3000/]
 
-       ![Login Page Screenshot](https://github.com/Preethi-Vijayan/preethi/blob/69b4cf5fe28a4e149ef51d08dabea6b08d5d70b3/login%20page.PNG)
+       ![Login Page Screenshot] (https://github.com/Preethi-Vijayan/preethi/blob/69b4cf5fe28a4e149ef51d08dabea6b08d5d70b3/login%20page.PNG)
 
-       ![Authentication Page Screenshot](https://github.com/Preethi-Vijayan/preethi/blob/69b4cf5fe28a4e149ef51d08dabea6b08d5d70b3/Authentication%20page.PNG)
+       ![Authentication Page Screenshot](https://github.com/Preethi-Vijayan/preethi/blob/main/Authentication%20page.PNG?raw=true)
        
        ![Dashboard Page Screenshot](https://github.com/Preethi-Vijayan/preethi/blob/69b4cf5fe28a4e149ef51d08dabea6b08d5d70b3/Dashboard.PNG)
