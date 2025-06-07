@@ -42,8 +42,8 @@ This is my login page using next.js,firebase authentication and zustand
 ## Output:
 Screenshot of the login page displayed at `http://localhost:3000`
 
-       -![Login Page Screenshot](https://github.com/Preethi-Vijayan/preethi/blob/69b4cf5fe28a4e149ef51d08dabea6b08d5d70b3/login%20page.PNG)
+       ![Login Page Screenshot](https://github.com/Preethi-Vijayan/preethi/blob/69b4cf5fe28a4e149ef51d08dabea6b08d5d70b3/login%20page.PNG)
 
-       -![Authentication Page Screenshot](https://github.com/Preethi-Vijayan/preethi/blob/69b4cf5fe28a4e149ef51d08dabea6b08d5d70b3/Authentication%20page.PNG)
+       ![Authentication Page Screenshot](https://github.com/Preethi-Vijayan/preethi/blob/69b4cf5fe28a4e149ef51d08dabea6b08d5d70b3/Authentication%20page.PNG)
        
-       -![Dashboard Page Screenshot](https://github.com/Preethi-Vijayan/preethi/blob/69b4cf5fe28a4e149ef51d08dabea6b08d5d70b3/Dashboard.PNG)
+       ![Dashboard Page Screenshot](https://github.com/Preethi-Vijayan/preethi/blob/69b4cf5fe28a4e149ef51d08dabea6b08d5d70b3/Dashboard.PNG)
